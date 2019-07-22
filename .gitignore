@@ -1,4 +1,3 @@
-
 # Logs
 logs
 *.log
@@ -59,4 +58,8 @@ typings/
 .env
 
 # next.js build output
+<<<<<<< HEAD
 .next
+=======
+.next
+>>>>>>> e6d288c19cfecfad16ad4e7a7b3a80761e06b942
